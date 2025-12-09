@@ -3,7 +3,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://genz-chatbot-live-k77gftl6ldfykthwugadvm.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Gemini API](https://img.shields.io/badge/Google-Gemini%20Flash-orange)
-
+![App Screenshot](screenshot.png)
 A conversational AI agent that breaks the "robotic assistant" mold. This project demonstrates **System Prompt Engineering**, **Context Retention**, and **Agentic Tool Use** (Meme Generation) to create a distinct, engaging user persona.
 
 👉 **[Live Demo: Chat with the Bestie](https://genz-chatbot-live-k77gftl6ldfykthwugadvm.streamlit.app/)**
